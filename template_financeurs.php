@@ -1,4 +1,4 @@
-<?php /* Template Name: Voyages */ 
+<?php /* Template Name: Finançeurs */ 
 get_header();
 ?>
 
